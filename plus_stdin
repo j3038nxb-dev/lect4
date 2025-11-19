@@ -1,4 +1,5 @@
 #! /usr/bin/python3
+#SPDX-FileCopyrightText: 2025 Su_YuuuuX
 import sys
 #aaaa
 ans = 0.0
